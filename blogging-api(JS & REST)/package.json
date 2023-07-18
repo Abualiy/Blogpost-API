@@ -1,0 +1,15 @@
+{
+  "name": "blogging-api",
+  "version": "1.0.0",
+  "description": "blogging_api using javascript and rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.3.2"
+  }
+}
