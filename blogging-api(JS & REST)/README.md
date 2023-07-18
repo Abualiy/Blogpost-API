@@ -116,7 +116,7 @@ Content-Type: application/json
 </pre>
 
 
-### 3. Delete a blog post
+### 4. Delete a blog post
 - Endpoint: 'POST /posts/:id'
 - Request Parameters: <br>
     - `'id'`: The ID of the blog post to delete.
