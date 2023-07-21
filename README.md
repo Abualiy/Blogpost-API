@@ -8,6 +8,7 @@ The Blog Post API is a RESTful API built with Express.js and MongoDB. It allows 
 - ## [Blogpost-API (JS & GraphQL)](https://github.com/Abualiy/Blogpost-API/tree/main/blogpost-api(JS%20%26%20GraphQL))
 The Blog Post API is a GraphQL-based API built with Express.js and MongoDB. It allows you to perform CRUD operations (Create, Read, Update, Delete) on blog posts. This guide will walk you through the API operations and their usage.
 - ## [Blogpost-API (JAVA & REST)](https://github.com/Abualiy/Blogpost-API/tree/main/blogpost-api(java%20%26%20REST))
+  This Blog post api is build using a Java language by using a well know framework called spring boot which is built on top of the spring framework with Object-Relational database management systme called Postgresql.
 
 ### Group Members
 <ol>
